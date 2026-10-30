@@ -2,6 +2,11 @@
 
 This organization works on a support for [OpenMP](https://www.openmp.org/) APIs in [Julia](https://julialang.org/) through the [omp.jl package](https://github.com/Julia-OpenMP/omp.jl).
 
+## Disclaimer
+This organization is an independent research group. It **is not** affiliated with the JuliaHub, Inc. or the OpenMP ARB.
+All projects are currently in early development stages.
+If you are interested, please reach-out! :-) 
+
 ## Motivations
 The ecosystem for performant and portable parallel programming in Julia is **sparse**.
 The language has built-in support for [threads and tasking](https://github.com/JuliaLang/julia), but [performance issues](https://discourse.julialang.org/t/overhead-of-threads-threads/53964/) often lead HPC users to adopt alternatives.
