@@ -30,4 +30,4 @@ end
 ```
 
 ## Contact
-Romain pereira (rpereira@anl.gov)
+Romain Pereira (rpereira@anl.gov)
