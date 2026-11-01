@@ -15,7 +15,7 @@ Popular alternatives include [Polyester.jl](https://github.com/JuliaSIMD/Polyest
 OpenMP is a general-purpose parallel programming API, developed jointly by research laboratories and the industry.
 Its [specifications](https://www.openmp.org/specifications/) and implementations (e.g., [LLVM](https://github.com/llvm/llvm-project/), [GCC](https://github.com/gcc-mirror/gcc) have passed the test of time.
 
-This organization aim to bridge both world, by providing **OpenMP support in Julia** *(or was it Julia support in OpenMP?)*.
+This organization aim to bridge both world, by providing **OpenMP support in Julia**.
 
 ## Examples
 ```Julia
