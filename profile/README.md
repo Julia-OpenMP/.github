@@ -1,6 +1,11 @@
 # OpenMP APIs in Julia
 
-This organization works on a support for [OpenMP](https://www.openmp.org/) APIs in [Julia](https://julialang.org/).
+This organization works on a support for [OpenMP](https://www.openmp.org/) APIs in [Julia](https://julialang.org/) through the [omp.jl package](https://github.com/Julia-OpenMP/omp.jl).
+
+## Disclaimer
+This organization is an independent research group. It **is not** affiliated with the JuliaHub, Inc. or the OpenMP ARB.
+All projects are currently in early development stages.
+If you are interested, please reach-out! :-) 
 
 ## Motivations
 The ecosystem for performant and portable parallel programming in Julia is **sparse**.
