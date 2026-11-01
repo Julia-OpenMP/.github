@@ -17,12 +17,12 @@ This organization aim to bridge both world, by providing **OpenMP support in Jul
 s = 0.0
 
 // Option A
-@omp parallel for reduction(+, s) for i in eachindex(x)
+@pragma "omp parallel for reduction(+, s)" for i in eachindex(x)
     s += x[i]^2
 end
 
 // Option B
-@omp parallel for reduction(+, s) begin
+@pragma "parallel for reduction(+, s)" begin
     for i in eachindex(x)
         s += x[i]^2
     end
