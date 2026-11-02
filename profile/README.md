@@ -3,7 +3,7 @@
 This organization works on a support for [OpenMP](https://www.openmp.org/) APIs in [Julia](https://julialang.org/) through the [omp.jl package](https://github.com/Julia-OpenMP/omp.jl).
 
 ## Disclaimer
-This organization is an independent research group. It **is not** affiliated with the JuliaHub, Inc. or the OpenMP ARB.
+This organization is an independent research group, initially formed by members of the CEA and ANL. It **is not** "officially" affiliated with the JuliaHub, Inc. or the OpenMP ARB.
 All projects are currently in early development stages.
 If you are interested, please reach-out! :-) 
 
